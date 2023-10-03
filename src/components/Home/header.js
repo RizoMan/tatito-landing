@@ -16,9 +16,9 @@ const Header = () => {
           </h2>
 
           <h1 className="text-white font-poppins font-semibold text-2xl xxs:text-2xl xs:text-2xl sm:text-lg md:text-2xl lg:text-4xl xl:text-7xl 2xl:text-8xl">
-            Change starts with <br></br> a{" "}
+            Los cambios comienzan con <br></br> un{" "}
             <span class="text-gradient bg-gradient-to-r from-pink to-purple">
-              single click.
+              simple click.
             </span>
           </h1>
         </div>
@@ -28,7 +28,7 @@ const Header = () => {
           <Input placeholder="email."></Input>
           <Button
             colorClass="bg-gradient-to-r from-pink to-purple "
-            title="Request Access"
+            title="Solicitar acceso"
             textColor="text-white"
             marginClass="ml-5"
           ></Button>

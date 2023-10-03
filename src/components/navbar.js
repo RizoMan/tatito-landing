@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="w-full justify-between flex items-center">
             <a className="text-white flex-shrink-0 font-poppins" href="/">
-              Circle
+              Tatitotutito
             </a>
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-4">
@@ -17,7 +17,7 @@ const Navbar = () => {
                   className="text-white opacity-50 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-poppins"
                   to="/about"
                 >
-                  About
+                  Nosotros
                 </Link>
                 <Link
                   className="text-white opacity-50 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-poppins"
@@ -29,19 +29,19 @@ const Navbar = () => {
                   className="text-white opacity-50 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-poppins"
                   to="/pricing"
                 >
-                  Pricing
+                  Precios
                 </Link>
                 <Link
                   className="text-white opacity-50 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-poppins"
                   to="/careers"
                 >
-                  Careers
+                  Careeras
                 </Link>
                 <Link
                   className="text-white opacity-50 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-poppins"
                   to="/contact"
                 >
-                  Contact
+                  Contacto
                 </Link>
               </div>
             </div>
@@ -78,19 +78,19 @@ const Navbar = () => {
               className="text-gray-800 dark:text-white block px-3 py-2 rounded-md text-base font-medium"
               href="/#"
             >
-              Gallery
+              Galeria
             </a>
             <a
               className="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium"
               href="/#"
             >
-              Content
+              Contenido
             </a>
             <a
               className="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium"
               href="/#"
             >
-              Contact
+              Contacto
             </a>
           </div>
         </div>
